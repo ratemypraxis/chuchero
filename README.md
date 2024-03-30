@@ -1,7 +1,7 @@
 # Chuchero Plus
 ***A movement controlled music instrument & LED visualizer***
 
-![demo of chuchero plus in use](https://github.com/ratemypraxis/chuchero/assets/49932341/e01614b9-639d-46f0-9277-eff8a201b69e)
+![chucheroProto](https://github.com/ratemypraxis/chuchero/assets/49932341/1f6a592c-d04f-4cbc-b11e-bbab2cbae490)
 
 ## Materials:
 - Arduino Nano 33 IoT
